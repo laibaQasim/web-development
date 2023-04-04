@@ -7,7 +7,7 @@ namespace lec_02
     {
         static void Main(string[] args)
         {
-            //CONVERSIONS IN DATATYPES"
+            //CONVERSIONS IN DATATYPES
             //from other datatypes to string: we use varName.ToString()
             //from string to other: int.Parse("fsf")
             ////FOR IMPLICIT DATATYPES:
